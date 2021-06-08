@@ -1,0 +1,13 @@
+{
+    "name": "BusRouteManagement",
+    "alias": "busroutemanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BusRouteManagement\\Providers\\BusRouteManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
