@@ -13,6 +13,7 @@ use Illuminate\Http\Request;
 |
 */
 
+
 //protected routes
 Route::group(['middleware' => ['auth:sanctum']], function () {
     Route::resource('route',RouteManagementController::class)->only([
