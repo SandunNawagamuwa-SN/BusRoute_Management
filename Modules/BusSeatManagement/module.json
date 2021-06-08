@@ -1,0 +1,13 @@
+{
+    "name": "BusSeatManagement",
+    "alias": "busseatmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BusSeatManagement\\Providers\\BusSeatManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

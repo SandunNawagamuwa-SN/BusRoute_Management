@@ -1,0 +1,13 @@
+{
+    "name": "BookinManagement",
+    "alias": "bookinmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BookinManagement\\Providers\\BookinManagementServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

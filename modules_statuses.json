@@ -1,0 +1,9 @@
+{
+    "BusManagement": true,
+    "RouteManagement": true,
+    "BusSeatManagement": true,
+    "ScheduleManagement": true,
+    "BookinManagement": true,
+    "Blog": true,
+    "BusRouteManagement": true
+}
